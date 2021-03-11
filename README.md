@@ -9,6 +9,7 @@
 <p>
 <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img witdh="50px" src="https://img.icons8.com/color/96/000000/golang.png">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -23,8 +24,9 @@
 * I work as a full stack developer at Desire Foundation developing and maintaining their blog and website.
 * Currently learning more of Golang and Linux internals to understand Docker and Kubernetes
 
+<br/><br/>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityameharia&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adityameharia&show_icons=true&theme=algolia" />
 </div>
 
 <br/><br/>
