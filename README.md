@@ -6,7 +6,7 @@
 
 ### Skills
 
-<p align="center">
+<p>
 <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -23,7 +23,6 @@
 * I work as a full stack developer at Desire Foundation developing and maintaining their blog and website.
 * Currently learning more of Golang and Linux internals to understand Docker and Kubernetes
 
-### Contact :
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-meharia-2b8b331b3/">
     <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
