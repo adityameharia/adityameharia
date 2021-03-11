@@ -9,7 +9,7 @@
 <p>
 <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img witdh="10px" src="https://img.icons8.com/color/96/000000/golang.png">
+<img witdh="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
