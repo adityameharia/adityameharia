@@ -23,6 +23,11 @@
 * I work as a full stack developer at Desire Foundation developing and maintaining their blog and website.
 * Currently learning more of Golang and Linux internals to understand Docker and Kubernetes
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityameharia&show_icons=true&theme=radical" />
+</div>
+
+<br/><br/>
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-meharia-2b8b331b3/">
     <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
