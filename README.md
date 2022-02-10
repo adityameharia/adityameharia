@@ -1,7 +1,7 @@
 # Hi, I am Aditya 👋
 
 * I am a full stack developer based in Kolkata, India. I am interested more in backend technologies and the craft that goes into building scalable and resilient web services. 
-* I am currently a sophomore at KIIT pursuing Computer Science and Engineering.
+* I am currently a junior at KIIT pursuing Computer Science and Engineering.
 * I mostly work with React, NodeJS and Golang and trying to learn Docker and Kubernetes in depth.
 
 ### Skills
